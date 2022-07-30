@@ -21,7 +21,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I'm in love with programming and now I've learnt enough for
-              helping in añy project, I think… 🤷‍♂️
+              helping in any project, I think… 🤷‍♂️
               <br />
               <br />I am fluent in
               <i>
@@ -31,7 +31,7 @@ function Home2() {
               <br />
               My interest it's building new
               <i>
-                <b className="purple">Web Technologies and Products </b> 
+                <b className="purple"> Web Technologies and Products </b> 
                 in areas related to{" "}
                 <b className="purple">
                   Natural Language Processing & Deep Learning
