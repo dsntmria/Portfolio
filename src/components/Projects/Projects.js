@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Private Chat Room for hangout with friends or Workspace to share resources build with React.js, Material-UI, and Firebase. Allows having a user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink={false}
               demoLink="https://chatify-49.web.app/"
             />
@@ -57,7 +57,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Uses the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework was successfully able to detect diseased and healthy leaves of 12 unique plants"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
