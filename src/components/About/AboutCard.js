@@ -13,7 +13,7 @@ function AboutCard() {
             <br />I am a junior developer pursuing the vision of a world Computing.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, I love to do other activities like:
           </p>
           <ul>
             <li className="about-activity">
@@ -28,7 +28,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Creating ideas that make a difference!"{" "}
           </p>
           <footer className="blockquote-footer">Daniel Santamaría</footer>
         </blockquote>
